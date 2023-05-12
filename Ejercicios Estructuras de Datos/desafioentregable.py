@@ -7,7 +7,6 @@ for i in range(3):
     letra = letra.lower()
     letras.append(letra)
 
-
 contador1 = txt.count(letras[0])
 contador2 = txt.count(letras[1])
 contador3 = txt.count(letras[2])
